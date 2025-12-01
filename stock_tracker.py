@@ -1,7 +1,7 @@
 import requests
 
 # 1. Define your RapidAPI Key and Headers
-RAPIDAPI_KEY = "8e8de8cf74msh443bcf0b166c66ap104bb6jsnb5c5058ca44c"
+RAPIDAPI_KEY = "88eb46a7e8msh6820d1b96d99ba4p118bf5jsnc11ea2a42102"
 HEADERS = {
     "X-RapidAPI-Key": RAPIDAPI_KEY,
     "X-RapidAPI-Host": "real-time-african-stock.p.rapidapi.com" # Updated host
